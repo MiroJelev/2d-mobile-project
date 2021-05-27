@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &433150421737158493
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2038283922023779020, guid: d820666d9cc00b34d8c4c7b88732ed41, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2038283922023779020, guid: d820666d9cc00b34d8c4c7b88732ed41, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -5.3571277
+      objectReference: {fileID: 0}
+    - target: {fileID: 2038283922023779020, guid: d820666d9cc00b34d8c4c7b88732ed41, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.9228098
+      objectReference: {fileID: 0}
+    - target: {fileID: 2038283922023779020, guid: d820666d9cc00b34d8c4c7b88732ed41, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2038283922023779020, guid: d820666d9cc00b34d8c4c7b88732ed41, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2038283922023779020, guid: d820666d9cc00b34d8c4c7b88732ed41, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2038283922023779020, guid: d820666d9cc00b34d8c4c7b88732ed41, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2038283922023779020, guid: d820666d9cc00b34d8c4c7b88732ed41, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2038283922023779020, guid: d820666d9cc00b34d8c4c7b88732ed41, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2038283922023779020, guid: d820666d9cc00b34d8c4c7b88732ed41, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2038283922023779020, guid: d820666d9cc00b34d8c4c7b88732ed41, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3553404243382488584, guid: d820666d9cc00b34d8c4c7b88732ed41, type: 3}
+      propertyPath: m_Name
+      value: Bullet_enemy Maslo
+      objectReference: {fileID: 0}
+    - target: {fileID: 5970742540700154327, guid: d820666d9cc00b34d8c4c7b88732ed41, type: 3}
+      propertyPath: hitEffect
+      value: 
+      objectReference: {fileID: 200013000095108497, guid: a95ae226826019c409f338a5cd9b74f6, type: 3}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d820666d9cc00b34d8c4c7b88732ed41, type: 3}
